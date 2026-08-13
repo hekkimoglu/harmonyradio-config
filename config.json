@@ -1,6 +1,8 @@
 {
   "aktif": true,
-  "surum": "1.1.0",
+  "surum": "1.3.0",
+  "min_surum": "1.0.0",
   "apk_url": "",
+  "win_url": "",
   "mesaj": ""
 }

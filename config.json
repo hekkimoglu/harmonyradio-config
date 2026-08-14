@@ -1,8 +1,8 @@
 {
     "aktif":  true,
-    "surum":  "1.3.5",
+    "surum":  "1.3.6",
     "min_surum":  "1.0.0",
-    "apk_url":  "https://github.com/hekkimoglu/harmonyradio-config/releases/download/v1.3.5/app-release.apk",
+    "apk_url":  "https://github.com/hekkimoglu/harmonyradio-config/releases/download/v1.3.6/app-release.apk",
     "win_url":  "",
     "mesaj":  "",
     "zorunlu":  false,

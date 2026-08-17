@@ -1,9 +1,9 @@
 {
     "aktif":  true,
-    "surum":  "1.3.11",
+    "surum":  "1.3.12",
     "min_surum":  "1.0.0",
-    "apk_url":  "https://github.com/hekkimoglu/harmonyradio-config/releases/download/v1.3.11/app-release.apk",
-    "win_url":  "https://github.com/hekkimoglu/harmonyradio-config/releases/download/v1.3.11/harmony_windows_1.3.11.zip",
+    "apk_url":  "https://github.com/hekkimoglu/harmonyradio-config/releases/download/v1.3.12/app-release.apk",
+    "win_url":  "https://github.com/hekkimoglu/harmonyradio-config/releases/download/v1.3.12/harmony_windows_1.3.12.zip",
     "mesaj":  "",
     "zorunlu":  false,
     "zorunlu_gun":  0
